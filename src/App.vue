@@ -21,7 +21,7 @@ import Virtual from './components/vue-virtual-scroll-list/src/index.js'
 // import qs from 'qs'
 import Item from './components/graphic-live/components/item.vue'
 import Data from './assets/index.js'
-export default {
+export default { // 注释
   name: 'App',
   data () {
     return {
